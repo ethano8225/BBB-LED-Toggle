@@ -1,0 +1,1 @@
+Simple program to toggle a LED connected to a beaglebone black. A file, time_diff_file.txt, is created when running the program, which will include the timestamps that plot.py can use to create a graph.
